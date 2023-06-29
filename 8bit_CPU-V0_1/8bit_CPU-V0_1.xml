@@ -1,0 +1,1216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>\\the-server\05-SHOP A ALEX\00-PROJETS ÉLECTRONIQUES\8bit CPU\KiCAD\8bit_CPU-V0_1\8bit_CPU-V0_1.kicad_sch</source>
+    <date>2023-06-28 23:42:21</date>
+    <tool>Eeschema 7.0.5</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>8bit_CPU-V0_1.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="2" name="/B Input Register/" tstamps="/35c1fb24-0486-4fe0-9b7f-61a5bd7cfd0a/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>BInput_reg.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="3" name="/A Input Register/" tstamps="/25bbece4-880f-4fa1-94ee-76ee775f4584/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>AInput_reg.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>0.1uF</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="B Input Register"/>
+      <property name="Sheetfile" value="BInput_reg.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/B Input Register/" tstamps="/35c1fb24-0486-4fe0-9b7f-61a5bd7cfd0a/"/>
+      <tstamps>13dc842c-661f-4c0c-ad29-5707d1e4f0d5</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>0.1uF</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="B Input Register"/>
+      <property name="Sheetfile" value="BInput_reg.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/B Input Register/" tstamps="/35c1fb24-0486-4fe0-9b7f-61a5bd7cfd0a/"/>
+      <tstamps>b6843ed9-8a01-4cb6-8f04-fc75977bbd8d</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>0.1uF</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="B Input Register"/>
+      <property name="Sheetfile" value="BInput_reg.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/B Input Register/" tstamps="/35c1fb24-0486-4fe0-9b7f-61a5bd7cfd0a/"/>
+      <tstamps>05246e9b-6bb8-41ae-9368-b1c968f600e3</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>0.1uF</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="B Input Register"/>
+      <property name="Sheetfile" value="BInput_reg.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/B Input Register/" tstamps="/35c1fb24-0486-4fe0-9b7f-61a5bd7cfd0a/"/>
+      <tstamps>b5198d36-c524-4e3c-be16-5e0d94d0c4ea</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>0.1uF</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="B Input Register"/>
+      <property name="Sheetfile" value="BInput_reg.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/B Input Register/" tstamps="/35c1fb24-0486-4fe0-9b7f-61a5bd7cfd0a/"/>
+      <tstamps>7fe816e3-3ee9-4f7c-a916-be10ae8804a1</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>0.1uF</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="B Input Register"/>
+      <property name="Sheetfile" value="BInput_reg.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/B Input Register/" tstamps="/35c1fb24-0486-4fe0-9b7f-61a5bd7cfd0a/"/>
+      <tstamps>4e1a651a-e737-4115-a254-5fc2a58f809e</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>0.1uF</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="B Input Register"/>
+      <property name="Sheetfile" value="BInput_reg.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/B Input Register/" tstamps="/35c1fb24-0486-4fe0-9b7f-61a5bd7cfd0a/"/>
+      <tstamps>ad675924-4be6-4129-8ccf-61625cac6b88</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>0.1uF</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="B Input Register"/>
+      <property name="Sheetfile" value="BInput_reg.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/B Input Register/" tstamps="/35c1fb24-0486-4fe0-9b7f-61a5bd7cfd0a/"/>
+      <tstamps>576cf34d-628a-4280-8293-d05f539af2d7</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>0.1uF</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="B Input Register"/>
+      <property name="Sheetfile" value="BInput_reg.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/B Input Register/" tstamps="/35c1fb24-0486-4fe0-9b7f-61a5bd7cfd0a/"/>
+      <tstamps>c68d534e-69e9-4ada-9cca-9853ad4be895</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>LED</value>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value="B Input Register"/>
+      <property name="Sheetfile" value="BInput_reg.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/B Input Register/" tstamps="/35c1fb24-0486-4fe0-9b7f-61a5bd7cfd0a/"/>
+      <tstamps>1c939638-03d8-46e5-a925-ad30dde7c818</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>LED</value>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value="B Input Register"/>
+      <property name="Sheetfile" value="BInput_reg.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/B Input Register/" tstamps="/35c1fb24-0486-4fe0-9b7f-61a5bd7cfd0a/"/>
+      <tstamps>2547b23f-27db-42ba-bdff-e71d62084612</tstamps>
+    </comp>
+    <comp ref="D3">
+      <value>LED</value>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value="B Input Register"/>
+      <property name="Sheetfile" value="BInput_reg.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/B Input Register/" tstamps="/35c1fb24-0486-4fe0-9b7f-61a5bd7cfd0a/"/>
+      <tstamps>73736863-2873-4fec-9228-561f86d483c4</tstamps>
+    </comp>
+    <comp ref="D4">
+      <value>LED</value>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value="B Input Register"/>
+      <property name="Sheetfile" value="BInput_reg.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/B Input Register/" tstamps="/35c1fb24-0486-4fe0-9b7f-61a5bd7cfd0a/"/>
+      <tstamps>597db740-a6f3-4a77-947a-0ead54530527</tstamps>
+    </comp>
+    <comp ref="D5">
+      <value>LED</value>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value="B Input Register"/>
+      <property name="Sheetfile" value="BInput_reg.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/B Input Register/" tstamps="/35c1fb24-0486-4fe0-9b7f-61a5bd7cfd0a/"/>
+      <tstamps>5de9d896-f2fd-45c6-8fca-f462f6139ca7</tstamps>
+    </comp>
+    <comp ref="D6">
+      <value>LED</value>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value="B Input Register"/>
+      <property name="Sheetfile" value="BInput_reg.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/B Input Register/" tstamps="/35c1fb24-0486-4fe0-9b7f-61a5bd7cfd0a/"/>
+      <tstamps>9146e04b-d711-41a6-af84-dbbba7ee5dd6</tstamps>
+    </comp>
+    <comp ref="D7">
+      <value>LED</value>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value="B Input Register"/>
+      <property name="Sheetfile" value="BInput_reg.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/B Input Register/" tstamps="/35c1fb24-0486-4fe0-9b7f-61a5bd7cfd0a/"/>
+      <tstamps>e8c781b7-0663-4477-935a-f4ebb64367c5</tstamps>
+    </comp>
+    <comp ref="D8">
+      <value>LED</value>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value="B Input Register"/>
+      <property name="Sheetfile" value="BInput_reg.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/B Input Register/" tstamps="/35c1fb24-0486-4fe0-9b7f-61a5bd7cfd0a/"/>
+      <tstamps>595bd88b-dca8-47e0-946b-eff79573e7ac</tstamps>
+    </comp>
+    <comp ref="RN1">
+      <value>330</value>
+      <footprint>Resistor_THT:R_Array_SIP11</footprint>
+      <datasheet>http://www.vishay.com/docs/31509/csc.pdf</datasheet>
+      <libsource lib="Device" part="R_Network10_US" description="10 resistor network, star topology, bussed resistors, small US symbol"/>
+      <property name="Sheetname" value="B Input Register"/>
+      <property name="Sheetfile" value="BInput_reg.kicad_sch"/>
+      <property name="ki_description" value="10 resistor network, star topology, bussed resistors, small US symbol"/>
+      <property name="ki_keywords" value="R network star-topology"/>
+      <sheetpath names="/B Input Register/" tstamps="/35c1fb24-0486-4fe0-9b7f-61a5bd7cfd0a/"/>
+      <tstamps>e1def9cb-b0e8-4aa5-8ed8-a474a51c9e2b</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>74LS86</value>
+      <datasheet>74xx/74ls86.pdf</datasheet>
+      <libsource lib="74xx" part="74LS86" description="Quad 2-input XOR"/>
+      <property name="Sheetname" value="B Input Register"/>
+      <property name="Sheetfile" value="BInput_reg.kicad_sch"/>
+      <property name="ki_description" value="Quad 2-input XOR"/>
+      <property name="ki_keywords" value="TTL XOR2"/>
+      <sheetpath names="/B Input Register/" tstamps="/35c1fb24-0486-4fe0-9b7f-61a5bd7cfd0a/"/>
+      <tstamps>fb2ec760-eb31-490a-9259-e77b88127ccf ac035c8d-5c78-4980-a5f0-00a78bc77f4f f794d41b-c260-4325-9e0f-45b93de40107 34023d67-a0f0-49f0-a46f-aff244de7b46 114296f1-083a-41ad-9667-547802e5d15d</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>74LS86</value>
+      <datasheet>74xx/74ls86.pdf</datasheet>
+      <libsource lib="74xx" part="74LS86" description="Quad 2-input XOR"/>
+      <property name="Sheetname" value="B Input Register"/>
+      <property name="Sheetfile" value="BInput_reg.kicad_sch"/>
+      <property name="ki_description" value="Quad 2-input XOR"/>
+      <property name="ki_keywords" value="TTL XOR2"/>
+      <sheetpath names="/B Input Register/" tstamps="/35c1fb24-0486-4fe0-9b7f-61a5bd7cfd0a/"/>
+      <tstamps>d6f3767e-f853-4b71-8303-949cf2eab295 791aef30-b5aa-437f-bada-0306ea8b83dc c53e63db-faeb-4abf-b2a7-124a8080852a ad16d41a-f835-4286-b2bd-0bab33ad9bd3 3c727250-7c91-43b6-b661-4cc0175a7ad4</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>74LS173</value>
+      <datasheet>http://www.ti.com/lit/gpn/sn74LS173</datasheet>
+      <libsource lib="74xx" part="74LS173" description="4-bit D-type Register, 3 state out"/>
+      <property name="Sheetname" value="B Input Register"/>
+      <property name="Sheetfile" value="BInput_reg.kicad_sch"/>
+      <property name="ki_description" value="4-bit D-type Register, 3 state out"/>
+      <property name="ki_keywords" value="TTL REG REG4 3State DFF"/>
+      <sheetpath names="/B Input Register/" tstamps="/35c1fb24-0486-4fe0-9b7f-61a5bd7cfd0a/"/>
+      <tstamps>2c322c77-5087-4e3d-8211-78cb30302ad9</tstamps>
+    </comp>
+    <comp ref="U4">
+      <value>74LS173</value>
+      <datasheet>http://www.ti.com/lit/gpn/sn74LS173</datasheet>
+      <libsource lib="74xx" part="74LS173" description="4-bit D-type Register, 3 state out"/>
+      <property name="Sheetname" value="B Input Register"/>
+      <property name="Sheetfile" value="BInput_reg.kicad_sch"/>
+      <property name="ki_description" value="4-bit D-type Register, 3 state out"/>
+      <property name="ki_keywords" value="TTL REG REG4 3State DFF"/>
+      <sheetpath names="/B Input Register/" tstamps="/35c1fb24-0486-4fe0-9b7f-61a5bd7cfd0a/"/>
+      <tstamps>6cf12f4a-e663-4bde-88bc-7166c83cb24d</tstamps>
+    </comp>
+    <comp ref="U5">
+      <value>74HCT04</value>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/74HC_HCT04.pdf</datasheet>
+      <libsource lib="74xx" part="74HCT04" description="Hex Inverter"/>
+      <property name="Sheetname" value="B Input Register"/>
+      <property name="Sheetfile" value="BInput_reg.kicad_sch"/>
+      <property name="ki_description" value="Hex Inverter"/>
+      <property name="ki_keywords" value="HCTMOS not inv"/>
+      <sheetpath names="/B Input Register/" tstamps="/35c1fb24-0486-4fe0-9b7f-61a5bd7cfd0a/"/>
+      <tstamps>e210c42d-2547-44e7-8bdb-ddd9443f0add c0face74-90b7-4b43-b68f-1909d4bf10ba 701a8f77-0426-4c96-9044-55303cc26964 30a8017f-d82b-4adb-9e7d-7fe5aa6658d5</tstamps>
+    </comp>
+    <comp ref="U6">
+      <value>74LS245</value>
+      <datasheet>http://www.ti.com/lit/gpn/sn74LS245</datasheet>
+      <libsource lib="74xx" part="74LS245" description="Octal BUS Transceivers, 3-State outputs"/>
+      <property name="Sheetname" value="B Input Register"/>
+      <property name="Sheetfile" value="BInput_reg.kicad_sch"/>
+      <property name="ki_description" value="Octal BUS Transceivers, 3-State outputs"/>
+      <property name="ki_keywords" value="TTL BUS 3State"/>
+      <sheetpath names="/B Input Register/" tstamps="/35c1fb24-0486-4fe0-9b7f-61a5bd7cfd0a/"/>
+      <tstamps>68e7b623-07cc-401c-8b4e-2dea91c655a7</tstamps>
+    </comp>
+    <comp ref="U7">
+      <value>74LS245</value>
+      <datasheet>http://www.ti.com/lit/gpn/sn74LS245</datasheet>
+      <libsource lib="74xx" part="74LS245" description="Octal BUS Transceivers, 3-State outputs"/>
+      <property name="Sheetname" value="B Input Register"/>
+      <property name="Sheetfile" value="BInput_reg.kicad_sch"/>
+      <property name="ki_description" value="Octal BUS Transceivers, 3-State outputs"/>
+      <property name="ki_keywords" value="TTL BUS 3State"/>
+      <sheetpath names="/B Input Register/" tstamps="/35c1fb24-0486-4fe0-9b7f-61a5bd7cfd0a/"/>
+      <tstamps>c30e92d2-5b42-4e04-ae92-ae97948dd25c</tstamps>
+    </comp>
+    <comp ref="U8">
+      <value>74LS08</value>
+      <datasheet>http://www.ti.com/lit/gpn/sn74LS08</datasheet>
+      <libsource lib="74xx" part="74LS08" description="Quad And2"/>
+      <property name="Sheetname" value="B Input Register"/>
+      <property name="Sheetfile" value="BInput_reg.kicad_sch"/>
+      <property name="ki_description" value="Quad And2"/>
+      <property name="ki_keywords" value="TTL and2"/>
+      <sheetpath names="/B Input Register/" tstamps="/35c1fb24-0486-4fe0-9b7f-61a5bd7cfd0a/"/>
+      <tstamps>b63b68cc-097f-4caf-8d9d-007c2485536b 153fcfdc-05a1-4812-a26a-1f23cc70a488</tstamps>
+    </comp>
+    <comp ref="U9">
+      <value>74LS32</value>
+      <datasheet>http://www.ti.com/lit/gpn/sn74LS32</datasheet>
+      <libsource lib="74xx" part="74LS32" description="Quad 2-input OR"/>
+      <property name="Sheetname" value="B Input Register"/>
+      <property name="Sheetfile" value="BInput_reg.kicad_sch"/>
+      <property name="ki_description" value="Quad 2-input OR"/>
+      <property name="ki_keywords" value="TTL Or2"/>
+      <sheetpath names="/B Input Register/" tstamps="/35c1fb24-0486-4fe0-9b7f-61a5bd7cfd0a/"/>
+      <tstamps>983b1973-bb19-4d62-9918-d792032b1464 16d01b87-e638-448b-b1d0-da6adc1dc396</tstamps>
+    </comp>
+    <comp ref="C11">
+      <value>0.1uF</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="A Input Register"/>
+      <property name="Sheetfile" value="AInput_reg.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/A Input Register/" tstamps="/25bbece4-880f-4fa1-94ee-76ee775f4584/"/>
+      <tstamps>18657627-03bc-49b2-9dc7-09d9d97cfaee</tstamps>
+    </comp>
+    <comp ref="C12">
+      <value>0.1uF</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="A Input Register"/>
+      <property name="Sheetfile" value="AInput_reg.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/A Input Register/" tstamps="/25bbece4-880f-4fa1-94ee-76ee775f4584/"/>
+      <tstamps>79bab08d-369c-45b6-8457-9fb4d211cb90</tstamps>
+    </comp>
+    <comp ref="C13">
+      <value>0.1uF</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="A Input Register"/>
+      <property name="Sheetfile" value="AInput_reg.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/A Input Register/" tstamps="/25bbece4-880f-4fa1-94ee-76ee775f4584/"/>
+      <tstamps>ff7ca247-a615-4fc0-8a9c-f134982de5e6</tstamps>
+    </comp>
+    <comp ref="D9">
+      <value>LED</value>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value="A Input Register"/>
+      <property name="Sheetfile" value="AInput_reg.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/A Input Register/" tstamps="/25bbece4-880f-4fa1-94ee-76ee775f4584/"/>
+      <tstamps>f40472f2-1cb2-4698-b737-7b2c49fbf9af</tstamps>
+    </comp>
+    <comp ref="D10">
+      <value>LED</value>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value="A Input Register"/>
+      <property name="Sheetfile" value="AInput_reg.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/A Input Register/" tstamps="/25bbece4-880f-4fa1-94ee-76ee775f4584/"/>
+      <tstamps>64b7934a-322b-40bb-a77f-db745c58c30e</tstamps>
+    </comp>
+    <comp ref="D11">
+      <value>LED</value>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value="A Input Register"/>
+      <property name="Sheetfile" value="AInput_reg.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/A Input Register/" tstamps="/25bbece4-880f-4fa1-94ee-76ee775f4584/"/>
+      <tstamps>9f7cac06-eb80-45ef-991d-d4d65b18fbf7</tstamps>
+    </comp>
+    <comp ref="D12">
+      <value>LED</value>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value="A Input Register"/>
+      <property name="Sheetfile" value="AInput_reg.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/A Input Register/" tstamps="/25bbece4-880f-4fa1-94ee-76ee775f4584/"/>
+      <tstamps>eca6de34-ac14-493e-8275-9d8b69ca7c42</tstamps>
+    </comp>
+    <comp ref="D13">
+      <value>LED</value>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value="A Input Register"/>
+      <property name="Sheetfile" value="AInput_reg.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/A Input Register/" tstamps="/25bbece4-880f-4fa1-94ee-76ee775f4584/"/>
+      <tstamps>1fa5f19f-14c7-4a64-b5d0-3dbb70e97783</tstamps>
+    </comp>
+    <comp ref="D14">
+      <value>LED</value>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value="A Input Register"/>
+      <property name="Sheetfile" value="AInput_reg.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/A Input Register/" tstamps="/25bbece4-880f-4fa1-94ee-76ee775f4584/"/>
+      <tstamps>e520da24-5eb9-4717-9c68-3e3033471324</tstamps>
+    </comp>
+    <comp ref="D15">
+      <value>LED</value>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value="A Input Register"/>
+      <property name="Sheetfile" value="AInput_reg.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/A Input Register/" tstamps="/25bbece4-880f-4fa1-94ee-76ee775f4584/"/>
+      <tstamps>c1a6a000-9ee3-467a-af8e-a484afc30b71</tstamps>
+    </comp>
+    <comp ref="D16">
+      <value>LED</value>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value="A Input Register"/>
+      <property name="Sheetfile" value="AInput_reg.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/A Input Register/" tstamps="/25bbece4-880f-4fa1-94ee-76ee775f4584/"/>
+      <tstamps>6d9ae48a-df2d-4da2-b377-a951f4d16aae</tstamps>
+    </comp>
+    <comp ref="RN2">
+      <value>330</value>
+      <footprint>Resistor_THT:R_Array_SIP11</footprint>
+      <datasheet>http://www.vishay.com/docs/31509/csc.pdf</datasheet>
+      <libsource lib="Device" part="R_Network10_US" description="10 resistor network, star topology, bussed resistors, small US symbol"/>
+      <property name="Sheetname" value="A Input Register"/>
+      <property name="Sheetfile" value="AInput_reg.kicad_sch"/>
+      <property name="ki_description" value="10 resistor network, star topology, bussed resistors, small US symbol"/>
+      <property name="ki_keywords" value="R network star-topology"/>
+      <sheetpath names="/A Input Register/" tstamps="/25bbece4-880f-4fa1-94ee-76ee775f4584/"/>
+      <tstamps>df91b991-d56b-4a28-8841-f0f2abd1ec3f</tstamps>
+    </comp>
+    <comp ref="U10">
+      <value>74LS173</value>
+      <datasheet>http://www.ti.com/lit/gpn/sn74LS173</datasheet>
+      <libsource lib="74xx" part="74LS173" description="4-bit D-type Register, 3 state out"/>
+      <property name="Sheetname" value="A Input Register"/>
+      <property name="Sheetfile" value="AInput_reg.kicad_sch"/>
+      <property name="ki_description" value="4-bit D-type Register, 3 state out"/>
+      <property name="ki_keywords" value="TTL REG REG4 3State DFF"/>
+      <sheetpath names="/A Input Register/" tstamps="/25bbece4-880f-4fa1-94ee-76ee775f4584/"/>
+      <tstamps>9d349cf8-0fe3-42cb-90d8-6ccc8bdfc12d</tstamps>
+    </comp>
+    <comp ref="U11">
+      <value>74LS173</value>
+      <datasheet>http://www.ti.com/lit/gpn/sn74LS173</datasheet>
+      <libsource lib="74xx" part="74LS173" description="4-bit D-type Register, 3 state out"/>
+      <property name="Sheetname" value="A Input Register"/>
+      <property name="Sheetfile" value="AInput_reg.kicad_sch"/>
+      <property name="ki_description" value="4-bit D-type Register, 3 state out"/>
+      <property name="ki_keywords" value="TTL REG REG4 3State DFF"/>
+      <sheetpath names="/A Input Register/" tstamps="/25bbece4-880f-4fa1-94ee-76ee775f4584/"/>
+      <tstamps>6ef5f4db-ea57-4f70-b74e-694010858371</tstamps>
+    </comp>
+    <comp ref="U12">
+      <value>74LS245</value>
+      <datasheet>http://www.ti.com/lit/gpn/sn74LS245</datasheet>
+      <libsource lib="74xx" part="74LS245" description="Octal BUS Transceivers, 3-State outputs"/>
+      <property name="Sheetname" value="A Input Register"/>
+      <property name="Sheetfile" value="AInput_reg.kicad_sch"/>
+      <property name="ki_description" value="Octal BUS Transceivers, 3-State outputs"/>
+      <property name="ki_keywords" value="TTL BUS 3State"/>
+      <sheetpath names="/A Input Register/" tstamps="/25bbece4-880f-4fa1-94ee-76ee775f4584/"/>
+      <tstamps>ddce98ca-e2cb-4bcd-948c-11bba18d2c68</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="74xx" part="74HCT04">
+      <description>Hex Inverter</description>
+      <docs>https://assets.nexperia.com/documents/data-sheet/74HC_HCT04.pdf</docs>
+      <footprints>
+        <fp>DIP*W7.62mm*</fp>
+        <fp>SSOP?14*</fp>
+        <fp>TSSOP?14*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">74HCT04</field>
+        <field name="Datasheet">https://assets.nexperia.com/documents/data-sheet/74HC_HCT04.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="input"/>
+        <pin num="2" name="" type="output"/>
+        <pin num="3" name="" type="input"/>
+        <pin num="4" name="" type="output"/>
+        <pin num="5" name="" type="input"/>
+        <pin num="6" name="" type="output"/>
+        <pin num="7" name="GND" type="power_in"/>
+        <pin num="8" name="" type="output"/>
+        <pin num="9" name="" type="input"/>
+        <pin num="10" name="" type="output"/>
+        <pin num="11" name="" type="input"/>
+        <pin num="12" name="" type="output"/>
+        <pin num="13" name="" type="input"/>
+        <pin num="14" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="74xx" part="74LS08">
+      <description>Quad And2</description>
+      <docs>http://www.ti.com/lit/gpn/sn74LS08</docs>
+      <footprints>
+        <fp>DIP*W7.62mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">74LS08</field>
+        <field name="Datasheet">http://www.ti.com/lit/gpn/sn74LS08</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="input"/>
+        <pin num="2" name="" type="input"/>
+        <pin num="3" name="" type="output"/>
+        <pin num="4" name="" type="input"/>
+        <pin num="5" name="" type="input"/>
+        <pin num="6" name="" type="output"/>
+        <pin num="7" name="GND" type="power_in"/>
+        <pin num="8" name="" type="output"/>
+        <pin num="9" name="" type="input"/>
+        <pin num="10" name="" type="input"/>
+        <pin num="11" name="" type="output"/>
+        <pin num="12" name="" type="input"/>
+        <pin num="13" name="" type="input"/>
+        <pin num="14" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="74xx" part="74LS173">
+      <description>4-bit D-type Register, 3 state out</description>
+      <docs>http://www.ti.com/lit/gpn/sn74LS173</docs>
+      <footprints>
+        <fp>DIP?16*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">74LS173</field>
+        <field name="Datasheet">http://www.ti.com/lit/gpn/sn74LS173</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Oe1" type="input"/>
+        <pin num="2" name="Oe2" type="input"/>
+        <pin num="3" name="Q0" type="tri_state"/>
+        <pin num="4" name="Q1" type="tri_state"/>
+        <pin num="5" name="Q2" type="tri_state"/>
+        <pin num="6" name="Q3" type="tri_state"/>
+        <pin num="7" name="Cp" type="input"/>
+        <pin num="8" name="GND" type="power_in"/>
+        <pin num="9" name="E1" type="input"/>
+        <pin num="10" name="E2" type="input"/>
+        <pin num="11" name="D3" type="input"/>
+        <pin num="12" name="D2" type="input"/>
+        <pin num="13" name="D1" type="input"/>
+        <pin num="14" name="D0" type="input"/>
+        <pin num="15" name="Mr" type="input"/>
+        <pin num="16" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="74xx" part="74LS245">
+      <description>Octal BUS Transceivers, 3-State outputs</description>
+      <docs>http://www.ti.com/lit/gpn/sn74LS245</docs>
+      <footprints>
+        <fp>DIP?20*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">74LS245</field>
+        <field name="Datasheet">http://www.ti.com/lit/gpn/sn74LS245</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A-&gt;B" type="input"/>
+        <pin num="2" name="A0" type="tri_state"/>
+        <pin num="3" name="A1" type="tri_state"/>
+        <pin num="4" name="A2" type="tri_state"/>
+        <pin num="5" name="A3" type="tri_state"/>
+        <pin num="6" name="A4" type="tri_state"/>
+        <pin num="7" name="A5" type="tri_state"/>
+        <pin num="8" name="A6" type="tri_state"/>
+        <pin num="9" name="A7" type="tri_state"/>
+        <pin num="10" name="GND" type="power_in"/>
+        <pin num="11" name="B7" type="tri_state"/>
+        <pin num="12" name="B6" type="tri_state"/>
+        <pin num="13" name="B5" type="tri_state"/>
+        <pin num="14" name="B4" type="tri_state"/>
+        <pin num="15" name="B3" type="tri_state"/>
+        <pin num="16" name="B2" type="tri_state"/>
+        <pin num="17" name="B1" type="tri_state"/>
+        <pin num="18" name="B0" type="tri_state"/>
+        <pin num="19" name="CE" type="input"/>
+        <pin num="20" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="74xx" part="74LS32">
+      <description>Quad 2-input OR</description>
+      <docs>http://www.ti.com/lit/gpn/sn74LS32</docs>
+      <footprints>
+        <fp>DIP?14*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">74LS32</field>
+        <field name="Datasheet">http://www.ti.com/lit/gpn/sn74LS32</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="input"/>
+        <pin num="2" name="" type="input"/>
+        <pin num="3" name="" type="output"/>
+        <pin num="4" name="" type="input"/>
+        <pin num="5" name="" type="input"/>
+        <pin num="6" name="" type="output"/>
+        <pin num="7" name="GND" type="power_in"/>
+        <pin num="8" name="" type="output"/>
+        <pin num="9" name="" type="input"/>
+        <pin num="10" name="" type="input"/>
+        <pin num="11" name="" type="output"/>
+        <pin num="12" name="" type="input"/>
+        <pin num="13" name="" type="input"/>
+        <pin num="14" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="74xx" part="74LS86">
+      <description>Quad 2-input XOR</description>
+      <docs>74xx/74ls86.pdf</docs>
+      <footprints>
+        <fp>DIP*W7.62mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">74LS86</field>
+        <field name="Datasheet">74xx/74ls86.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="input"/>
+        <pin num="2" name="" type="input"/>
+        <pin num="3" name="" type="output"/>
+        <pin num="4" name="" type="input"/>
+        <pin num="5" name="" type="input"/>
+        <pin num="6" name="" type="output"/>
+        <pin num="7" name="GND" type="power_in"/>
+        <pin num="8" name="" type="output"/>
+        <pin num="9" name="" type="input"/>
+        <pin num="10" name="" type="input"/>
+        <pin num="11" name="" type="output"/>
+        <pin num="12" name="" type="input"/>
+        <pin num="13" name="" type="input"/>
+        <pin num="14" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="LED">
+      <description>Light emitting diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_Network10_US">
+      <description>10 resistor network, star topology, bussed resistors, small US symbol</description>
+      <docs>http://www.vishay.com/docs/31509/csc.pdf</docs>
+      <footprints>
+        <fp>R?Array?SIP*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">RN</field>
+        <field name="Value">R_Network10_US</field>
+        <field name="Footprint">Resistor_THT:R_Array_SIP11</field>
+        <field name="Datasheet">http://www.vishay.com/docs/31509/csc.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="common" type="passive"/>
+        <pin num="2" name="R1" type="passive"/>
+        <pin num="3" name="R2" type="passive"/>
+        <pin num="4" name="R3" type="passive"/>
+        <pin num="5" name="R4" type="passive"/>
+        <pin num="6" name="R5" type="passive"/>
+        <pin num="7" name="R6" type="passive"/>
+        <pin num="8" name="R7" type="passive"/>
+        <pin num="9" name="R8" type="passive"/>
+        <pin num="10" name="R9" type="passive"/>
+        <pin num="11" name="R10" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="74xx">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/74xx.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="/B Input Register/ADL_Bin_0">
+      <node ref="U7" pin="2" pinfunction="A0" pintype="tri_state"/>
+    </net>
+    <net code="2" name="/B Input Register/ADL_Bin_1">
+      <node ref="U7" pin="3" pinfunction="A1" pintype="tri_state"/>
+    </net>
+    <net code="3" name="/B Input Register/ADL_Bin_2">
+      <node ref="U7" pin="4" pinfunction="A2" pintype="tri_state"/>
+    </net>
+    <net code="4" name="/B Input Register/ADL_Bin_3">
+      <node ref="U7" pin="5" pinfunction="A3" pintype="tri_state"/>
+    </net>
+    <net code="5" name="/B Input Register/ADL_Bin_4">
+      <node ref="U7" pin="6" pinfunction="A4" pintype="tri_state"/>
+    </net>
+    <net code="6" name="/B Input Register/ADL_Bin_5">
+      <node ref="U7" pin="7" pinfunction="A5" pintype="tri_state"/>
+    </net>
+    <net code="7" name="/B Input Register/ADL_Bin_6">
+      <node ref="U7" pin="8" pinfunction="A6" pintype="tri_state"/>
+    </net>
+    <net code="8" name="/B Input Register/ADL_Bin_7">
+      <node ref="U7" pin="9" pinfunction="A7" pintype="tri_state"/>
+    </net>
+    <net code="9" name="/B Input Register/ADL{slash}ADD">
+      <node ref="U5" pin="5" pintype="input"/>
+    </net>
+    <net code="10" name="/B Input Register/Bin_ALU_0">
+      <node ref="D8" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="U3" pin="3" pinfunction="Q0" pintype="tri_state"/>
+    </net>
+    <net code="11" name="/B Input Register/Bin_ALU_1">
+      <node ref="D7" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="U3" pin="4" pinfunction="Q1" pintype="tri_state"/>
+    </net>
+    <net code="12" name="/B Input Register/Bin_ALU_2">
+      <node ref="D6" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="U3" pin="5" pinfunction="Q2" pintype="tri_state"/>
+    </net>
+    <net code="13" name="/B Input Register/Bin_ALU_3">
+      <node ref="D5" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="U3" pin="6" pinfunction="Q3" pintype="tri_state"/>
+    </net>
+    <net code="14" name="/B Input Register/Bin_ALU_4">
+      <node ref="D4" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="U4" pin="3" pinfunction="Q0" pintype="tri_state"/>
+    </net>
+    <net code="15" name="/B Input Register/Bin_ALU_5">
+      <node ref="D3" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="U4" pin="4" pinfunction="Q1" pintype="tri_state"/>
+    </net>
+    <net code="16" name="/B Input Register/Bin_ALU_6">
+      <node ref="D2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="U4" pin="5" pinfunction="Q2" pintype="tri_state"/>
+    </net>
+    <net code="17" name="/B Input Register/Bin_ALU_7">
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="U4" pin="6" pinfunction="Q3" pintype="tri_state"/>
+    </net>
+    <net code="18" name="/B Input Register/Bin_CLK">
+      <node ref="U3" pin="7" pinfunction="Cp" pintype="input"/>
+      <node ref="U4" pin="7" pinfunction="Cp" pintype="input"/>
+    </net>
+    <net code="19" name="/B Input Register/DBUS_Bin_0">
+      <node ref="U6" pin="2" pinfunction="A0" pintype="tri_state"/>
+    </net>
+    <net code="20" name="/B Input Register/DBUS_Bin_1">
+      <node ref="U6" pin="3" pinfunction="A1" pintype="tri_state"/>
+    </net>
+    <net code="21" name="/B Input Register/DBUS_Bin_2">
+      <node ref="U6" pin="4" pinfunction="A2" pintype="tri_state"/>
+    </net>
+    <net code="22" name="/B Input Register/DBUS_Bin_3">
+      <node ref="U6" pin="5" pinfunction="A3" pintype="tri_state"/>
+    </net>
+    <net code="23" name="/B Input Register/DBUS_Bin_4">
+      <node ref="U6" pin="6" pinfunction="A4" pintype="tri_state"/>
+    </net>
+    <net code="24" name="/B Input Register/DBUS_Bin_5">
+      <node ref="U6" pin="7" pinfunction="A5" pintype="tri_state"/>
+    </net>
+    <net code="25" name="/B Input Register/DBUS_Bin_6">
+      <node ref="U6" pin="8" pinfunction="A6" pintype="tri_state"/>
+    </net>
+    <net code="26" name="/B Input Register/DBUS_Bin_7">
+      <node ref="U6" pin="9" pinfunction="A7" pintype="tri_state"/>
+    </net>
+    <net code="27" name="/B Input Register/DB{slash}ADD">
+      <node ref="U9" pin="1" pintype="input"/>
+    </net>
+    <net code="28" name="/B Input Register/~{Bin_RST}">
+      <node ref="U5" pin="1" pintype="input"/>
+    </net>
+    <net code="29" name="/B Input Register/~{DB}{slash}ADD">
+      <node ref="U1" pin="10" pintype="input"/>
+      <node ref="U1" pin="13" pintype="input"/>
+      <node ref="U1" pin="2" pintype="input"/>
+      <node ref="U1" pin="5" pintype="input"/>
+      <node ref="U2" pin="10" pintype="input"/>
+      <node ref="U2" pin="13" pintype="input"/>
+      <node ref="U2" pin="2" pintype="input"/>
+      <node ref="U2" pin="5" pintype="input"/>
+      <node ref="U9" pin="2" pintype="input"/>
+    </net>
+    <net code="30" name="GND">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C11" pin="2" pintype="passive"/>
+      <node ref="C12" pin="1" pintype="passive"/>
+      <node ref="C13" pin="2" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="RN1" pin="1" pinfunction="common" pintype="passive"/>
+      <node ref="RN2" pin="1" pinfunction="common" pintype="passive"/>
+      <node ref="U1" pin="7" pinfunction="GND" pintype="power_in"/>
+      <node ref="U10" pin="1" pinfunction="Oe1" pintype="input"/>
+      <node ref="U10" pin="2" pinfunction="Oe2" pintype="input"/>
+      <node ref="U10" pin="8" pinfunction="GND" pintype="power_in"/>
+      <node ref="U11" pin="1" pinfunction="Oe1" pintype="input"/>
+      <node ref="U11" pin="2" pinfunction="Oe2" pintype="input"/>
+      <node ref="U11" pin="8" pinfunction="GND" pintype="power_in"/>
+      <node ref="U12" pin="10" pinfunction="GND" pintype="power_in"/>
+      <node ref="U2" pin="7" pinfunction="GND" pintype="power_in"/>
+      <node ref="U3" pin="1" pinfunction="Oe1" pintype="input"/>
+      <node ref="U3" pin="2" pinfunction="Oe2" pintype="input"/>
+      <node ref="U3" pin="8" pinfunction="GND" pintype="power_in"/>
+      <node ref="U4" pin="1" pinfunction="Oe1" pintype="input"/>
+      <node ref="U4" pin="2" pinfunction="Oe2" pintype="input"/>
+      <node ref="U4" pin="8" pinfunction="GND" pintype="power_in"/>
+      <node ref="U5" pin="7" pinfunction="GND" pintype="power_in"/>
+      <node ref="U6" pin="10" pinfunction="GND" pintype="power_in"/>
+      <node ref="U7" pin="10" pinfunction="GND" pintype="power_in"/>
+      <node ref="U8" pin="7" pinfunction="GND" pintype="power_in"/>
+      <node ref="U9" pin="7" pinfunction="GND" pintype="power_in"/>
+    </net>
+    <net code="31" name="Net-(D1-K)">
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="RN1" pin="11" pinfunction="R10" pintype="passive"/>
+    </net>
+    <net code="32" name="Net-(D2-K)">
+      <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="RN1" pin="10" pinfunction="R9" pintype="passive"/>
+    </net>
+    <net code="33" name="Net-(D3-K)">
+      <node ref="D3" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="RN1" pin="9" pinfunction="R8" pintype="passive"/>
+    </net>
+    <net code="34" name="Net-(D4-K)">
+      <node ref="D4" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="RN1" pin="8" pinfunction="R7" pintype="passive"/>
+    </net>
+    <net code="35" name="Net-(D5-K)">
+      <node ref="D5" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="RN1" pin="5" pinfunction="R4" pintype="passive"/>
+    </net>
+    <net code="36" name="Net-(D6-K)">
+      <node ref="D6" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="RN1" pin="4" pinfunction="R3" pintype="passive"/>
+    </net>
+    <net code="37" name="Net-(D7-K)">
+      <node ref="D7" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="RN1" pin="3" pinfunction="R2" pintype="passive"/>
+    </net>
+    <net code="38" name="Net-(D8-K)">
+      <node ref="D8" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="RN1" pin="2" pinfunction="R1" pintype="passive"/>
+    </net>
+    <net code="39" name="Net-(D9-A)">
+      <node ref="D9" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="U11" pin="6" pinfunction="Q3" pintype="tri_state"/>
+    </net>
+    <net code="40" name="Net-(D9-K)">
+      <node ref="D9" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="RN2" pin="11" pinfunction="R10" pintype="passive"/>
+    </net>
+    <net code="41" name="Net-(D10-A)">
+      <node ref="D10" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="U11" pin="5" pinfunction="Q2" pintype="tri_state"/>
+    </net>
+    <net code="42" name="Net-(D10-K)">
+      <node ref="D10" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="RN2" pin="10" pinfunction="R9" pintype="passive"/>
+    </net>
+    <net code="43" name="Net-(D11-A)">
+      <node ref="D11" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="U11" pin="4" pinfunction="Q1" pintype="tri_state"/>
+    </net>
+    <net code="44" name="Net-(D11-K)">
+      <node ref="D11" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="RN2" pin="9" pinfunction="R8" pintype="passive"/>
+    </net>
+    <net code="45" name="Net-(D12-A)">
+      <node ref="D12" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="U11" pin="3" pinfunction="Q0" pintype="tri_state"/>
+    </net>
+    <net code="46" name="Net-(D12-K)">
+      <node ref="D12" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="RN2" pin="8" pinfunction="R7" pintype="passive"/>
+    </net>
+    <net code="47" name="Net-(D13-A)">
+      <node ref="D13" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="U10" pin="6" pinfunction="Q3" pintype="tri_state"/>
+    </net>
+    <net code="48" name="Net-(D13-K)">
+      <node ref="D13" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="RN2" pin="5" pinfunction="R4" pintype="passive"/>
+    </net>
+    <net code="49" name="Net-(D14-A)">
+      <node ref="D14" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="U10" pin="5" pinfunction="Q2" pintype="tri_state"/>
+    </net>
+    <net code="50" name="Net-(D14-K)">
+      <node ref="D14" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="RN2" pin="4" pinfunction="R3" pintype="passive"/>
+    </net>
+    <net code="51" name="Net-(D15-A)">
+      <node ref="D15" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="U10" pin="4" pinfunction="Q1" pintype="tri_state"/>
+    </net>
+    <net code="52" name="Net-(D15-K)">
+      <node ref="D15" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="RN2" pin="3" pinfunction="R2" pintype="passive"/>
+    </net>
+    <net code="53" name="Net-(D16-A)">
+      <node ref="D16" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="U10" pin="3" pinfunction="Q0" pintype="tri_state"/>
+    </net>
+    <net code="54" name="Net-(D16-K)">
+      <node ref="D16" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="RN2" pin="2" pinfunction="R1" pintype="passive"/>
+    </net>
+    <net code="55" name="Net-(U3-D0)">
+      <node ref="U1" pin="3" pintype="output"/>
+      <node ref="U3" pin="14" pinfunction="D0" pintype="input"/>
+    </net>
+    <net code="56" name="Net-(U3-D1)">
+      <node ref="U1" pin="6" pintype="output"/>
+      <node ref="U3" pin="13" pinfunction="D1" pintype="input"/>
+    </net>
+    <net code="57" name="Net-(U3-D2)">
+      <node ref="U1" pin="8" pintype="output"/>
+      <node ref="U3" pin="12" pinfunction="D2" pintype="input"/>
+    </net>
+    <net code="58" name="Net-(U3-D3)">
+      <node ref="U1" pin="11" pintype="output"/>
+      <node ref="U3" pin="11" pinfunction="D3" pintype="input"/>
+    </net>
+    <net code="59" name="Net-(U3-E1)">
+      <node ref="U3" pin="10" pinfunction="E2" pintype="input"/>
+      <node ref="U3" pin="9" pinfunction="E1" pintype="input"/>
+      <node ref="U4" pin="10" pinfunction="E2" pintype="input"/>
+      <node ref="U4" pin="9" pinfunction="E1" pintype="input"/>
+      <node ref="U8" pin="3" pintype="output"/>
+    </net>
+    <net code="60" name="Net-(U3-Mr)">
+      <node ref="U3" pin="15" pinfunction="Mr" pintype="input"/>
+      <node ref="U4" pin="15" pinfunction="Mr" pintype="input"/>
+      <node ref="U5" pin="2" pintype="output"/>
+    </net>
+    <net code="61" name="Net-(U4-D0)">
+      <node ref="U2" pin="3" pintype="output"/>
+      <node ref="U4" pin="14" pinfunction="D0" pintype="input"/>
+    </net>
+    <net code="62" name="Net-(U4-D1)">
+      <node ref="U2" pin="6" pintype="output"/>
+      <node ref="U4" pin="13" pinfunction="D1" pintype="input"/>
+    </net>
+    <net code="63" name="Net-(U4-D2)">
+      <node ref="U2" pin="8" pintype="output"/>
+      <node ref="U4" pin="12" pinfunction="D2" pintype="input"/>
+    </net>
+    <net code="64" name="Net-(U4-D3)">
+      <node ref="U2" pin="11" pintype="output"/>
+      <node ref="U4" pin="11" pinfunction="D3" pintype="input"/>
+    </net>
+    <net code="65" name="Net-(U5-Pad9)">
+      <node ref="U5" pin="9" pintype="input"/>
+      <node ref="U9" pin="3" pintype="output"/>
+    </net>
+    <net code="66" name="Net-(U6-B0)">
+      <node ref="U1" pin="1" pintype="input"/>
+      <node ref="U6" pin="18" pinfunction="B0" pintype="tri_state"/>
+      <node ref="U7" pin="18" pinfunction="B0" pintype="tri_state"/>
+    </net>
+    <net code="67" name="Net-(U6-B1)">
+      <node ref="U1" pin="4" pintype="input"/>
+      <node ref="U6" pin="17" pinfunction="B1" pintype="tri_state"/>
+      <node ref="U7" pin="17" pinfunction="B1" pintype="tri_state"/>
+    </net>
+    <net code="68" name="Net-(U6-B2)">
+      <node ref="U1" pin="9" pintype="input"/>
+      <node ref="U6" pin="16" pinfunction="B2" pintype="tri_state"/>
+      <node ref="U7" pin="16" pinfunction="B2" pintype="tri_state"/>
+    </net>
+    <net code="69" name="Net-(U6-B3)">
+      <node ref="U1" pin="12" pintype="input"/>
+      <node ref="U6" pin="15" pinfunction="B3" pintype="tri_state"/>
+      <node ref="U7" pin="15" pinfunction="B3" pintype="tri_state"/>
+    </net>
+    <net code="70" name="Net-(U6-B4)">
+      <node ref="U2" pin="1" pintype="input"/>
+      <node ref="U6" pin="14" pinfunction="B4" pintype="tri_state"/>
+      <node ref="U7" pin="14" pinfunction="B4" pintype="tri_state"/>
+    </net>
+    <net code="71" name="Net-(U6-B5)">
+      <node ref="U2" pin="4" pintype="input"/>
+      <node ref="U6" pin="13" pinfunction="B5" pintype="tri_state"/>
+      <node ref="U7" pin="13" pinfunction="B5" pintype="tri_state"/>
+    </net>
+    <net code="72" name="Net-(U6-B6)">
+      <node ref="U2" pin="9" pintype="input"/>
+      <node ref="U6" pin="12" pinfunction="B6" pintype="tri_state"/>
+      <node ref="U7" pin="12" pinfunction="B6" pintype="tri_state"/>
+    </net>
+    <net code="73" name="Net-(U6-B7)">
+      <node ref="U2" pin="12" pintype="input"/>
+      <node ref="U6" pin="11" pinfunction="B7" pintype="tri_state"/>
+      <node ref="U7" pin="11" pinfunction="B7" pintype="tri_state"/>
+    </net>
+    <net code="74" name="Net-(U6-CE)">
+      <node ref="U5" pin="8" pintype="output"/>
+      <node ref="U6" pin="19" pinfunction="CE" pintype="input"/>
+      <node ref="U8" pin="2" pintype="input"/>
+    </net>
+    <net code="75" name="Net-(U7-CE)">
+      <node ref="U5" pin="6" pintype="output"/>
+      <node ref="U7" pin="19" pinfunction="CE" pintype="input"/>
+      <node ref="U8" pin="1" pintype="input"/>
+    </net>
+    <net code="76" name="Net-(U10-Cp)">
+      <node ref="U10" pin="7" pinfunction="Cp" pintype="input"/>
+      <node ref="U11" pin="7" pinfunction="Cp" pintype="input"/>
+    </net>
+    <net code="77" name="Net-(U10-E1)">
+      <node ref="U10" pin="10" pinfunction="E2" pintype="input"/>
+      <node ref="U10" pin="9" pinfunction="E1" pintype="input"/>
+      <node ref="U11" pin="10" pinfunction="E2" pintype="input"/>
+      <node ref="U11" pin="9" pinfunction="E1" pintype="input"/>
+    </net>
+    <net code="78" name="Net-(U10-Mr)">
+      <node ref="U10" pin="15" pinfunction="Mr" pintype="input"/>
+      <node ref="U11" pin="15" pinfunction="Mr" pintype="input"/>
+    </net>
+    <net code="79" name="VCC">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C11" pin="1" pintype="passive"/>
+      <node ref="C12" pin="2" pintype="passive"/>
+      <node ref="C13" pin="1" pintype="passive"/>
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="U1" pin="14" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U10" pin="16" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U11" pin="16" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U12" pin="20" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U2" pin="14" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U3" pin="16" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U4" pin="16" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U5" pin="14" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U6" pin="1" pinfunction="A-&gt;B" pintype="input"/>
+      <node ref="U6" pin="20" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U7" pin="1" pinfunction="A-&gt;B" pintype="input"/>
+      <node ref="U7" pin="20" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U8" pin="14" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U9" pin="14" pinfunction="VCC" pintype="power_in"/>
+    </net>
+    <net code="80" name="unconnected-(RN1-R5-Pad6)">
+      <node ref="RN1" pin="6" pinfunction="R5" pintype="passive"/>
+    </net>
+    <net code="81" name="unconnected-(RN1-R6-Pad7)">
+      <node ref="RN1" pin="7" pinfunction="R6" pintype="passive"/>
+    </net>
+    <net code="82" name="unconnected-(RN2-R5-Pad6)">
+      <node ref="RN2" pin="6" pinfunction="R5" pintype="passive"/>
+    </net>
+    <net code="83" name="unconnected-(RN2-R6-Pad7)">
+      <node ref="RN2" pin="7" pinfunction="R6" pintype="passive"/>
+    </net>
+    <net code="84" name="unconnected-(U10-D0-Pad14)">
+      <node ref="U10" pin="14" pinfunction="D0" pintype="input"/>
+    </net>
+    <net code="85" name="unconnected-(U10-D1-Pad13)">
+      <node ref="U10" pin="13" pinfunction="D1" pintype="input"/>
+    </net>
+    <net code="86" name="unconnected-(U10-D2-Pad12)">
+      <node ref="U10" pin="12" pinfunction="D2" pintype="input"/>
+    </net>
+    <net code="87" name="unconnected-(U10-D3-Pad11)">
+      <node ref="U10" pin="11" pinfunction="D3" pintype="input"/>
+    </net>
+    <net code="88" name="unconnected-(U11-D0-Pad14)">
+      <node ref="U11" pin="14" pinfunction="D0" pintype="input"/>
+    </net>
+    <net code="89" name="unconnected-(U11-D1-Pad13)">
+      <node ref="U11" pin="13" pinfunction="D1" pintype="input"/>
+    </net>
+    <net code="90" name="unconnected-(U11-D2-Pad12)">
+      <node ref="U11" pin="12" pinfunction="D2" pintype="input"/>
+    </net>
+    <net code="91" name="unconnected-(U11-D3-Pad11)">
+      <node ref="U11" pin="11" pinfunction="D3" pintype="input"/>
+    </net>
+    <net code="92" name="unconnected-(U12-A-&gt;B-Pad1)">
+      <node ref="U12" pin="1" pinfunction="A-&gt;B" pintype="input"/>
+    </net>
+    <net code="93" name="unconnected-(U12-A0-Pad2)">
+      <node ref="U12" pin="2" pinfunction="A0" pintype="tri_state"/>
+    </net>
+    <net code="94" name="unconnected-(U12-A1-Pad3)">
+      <node ref="U12" pin="3" pinfunction="A1" pintype="tri_state"/>
+    </net>
+    <net code="95" name="unconnected-(U12-A2-Pad4)">
+      <node ref="U12" pin="4" pinfunction="A2" pintype="tri_state"/>
+    </net>
+    <net code="96" name="unconnected-(U12-A3-Pad5)">
+      <node ref="U12" pin="5" pinfunction="A3" pintype="tri_state"/>
+    </net>
+    <net code="97" name="unconnected-(U12-A4-Pad6)">
+      <node ref="U12" pin="6" pinfunction="A4" pintype="tri_state"/>
+    </net>
+    <net code="98" name="unconnected-(U12-A5-Pad7)">
+      <node ref="U12" pin="7" pinfunction="A5" pintype="tri_state"/>
+    </net>
+    <net code="99" name="unconnected-(U12-A6-Pad8)">
+      <node ref="U12" pin="8" pinfunction="A6" pintype="tri_state"/>
+    </net>
+    <net code="100" name="unconnected-(U12-A7-Pad9)">
+      <node ref="U12" pin="9" pinfunction="A7" pintype="tri_state"/>
+    </net>
+    <net code="101" name="unconnected-(U12-B0-Pad18)">
+      <node ref="U12" pin="18" pinfunction="B0" pintype="tri_state"/>
+    </net>
+    <net code="102" name="unconnected-(U12-B1-Pad17)">
+      <node ref="U12" pin="17" pinfunction="B1" pintype="tri_state"/>
+    </net>
+    <net code="103" name="unconnected-(U12-B2-Pad16)">
+      <node ref="U12" pin="16" pinfunction="B2" pintype="tri_state"/>
+    </net>
+    <net code="104" name="unconnected-(U12-B3-Pad15)">
+      <node ref="U12" pin="15" pinfunction="B3" pintype="tri_state"/>
+    </net>
+    <net code="105" name="unconnected-(U12-B4-Pad14)">
+      <node ref="U12" pin="14" pinfunction="B4" pintype="tri_state"/>
+    </net>
+    <net code="106" name="unconnected-(U12-B5-Pad13)">
+      <node ref="U12" pin="13" pinfunction="B5" pintype="tri_state"/>
+    </net>
+    <net code="107" name="unconnected-(U12-B6-Pad12)">
+      <node ref="U12" pin="12" pinfunction="B6" pintype="tri_state"/>
+    </net>
+    <net code="108" name="unconnected-(U12-B7-Pad11)">
+      <node ref="U12" pin="11" pinfunction="B7" pintype="tri_state"/>
+    </net>
+    <net code="109" name="unconnected-(U12-CE-Pad19)">
+      <node ref="U12" pin="19" pinfunction="CE" pintype="input"/>
+    </net>
+  </nets>
+</export>
