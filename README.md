@@ -6,3 +6,4 @@ have obliged me in pausing any DIY projects. I'm back now!
 
 I will try my best to understand the 6502 processor and create my own breadboard version of the 6502 with Logic chips only.
 
+This will too create a reson to use the full capacity my freshly restored HP 1660CS!
