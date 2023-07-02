@@ -338,6 +338,14 @@
     [
       "2506dba5-d3a6-49a3-9eb6-4c25813b2799",
       "ALU1-SUMS"
+    ],
+    [
+      "ced47c2c-41ac-49d8-adf8-5e05670f7615",
+      "ALU2-ANDS"
+    ],
+    [
+      "7f9f7569-f610-4381-81c7-c45e5846f6ba",
+      "ALU3-EORS"
     ]
   ],
   "text_variables": {}
