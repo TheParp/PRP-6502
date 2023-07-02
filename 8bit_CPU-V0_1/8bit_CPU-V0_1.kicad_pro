@@ -346,6 +346,18 @@
     [
       "7f9f7569-f610-4381-81c7-c45e5846f6ba",
       "ALU3-EORS"
+    ],
+    [
+      "eed8f768-7506-4df5-b01f-6a23e528aa72",
+      "ALU4-ORS"
+    ],
+    [
+      "5c82f420-9238-4483-85b4-9976015269a2",
+      "ALU5-SRS"
+    ],
+    [
+      "65fbbc7b-1053-4b7a-b0ae-57caa25c0eba",
+      "Adder Hold Register"
     ]
   ],
   "text_variables": {}
