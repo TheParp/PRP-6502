@@ -5,6 +5,7 @@ A few years ago, I was struck by the videos from Bean Eater and his SAP-1. Some 
 have obliged me in pausing any DIY projects. I'm back now!
 
 I will try my best to understand the 6502 processor and create my own breadboard version of the 6502 with Logic chips only.
+Alle technical information will be added to my wiki.
 
 This will too create a reson to use the full capacity my freshly restored HP 1660CS!
 
