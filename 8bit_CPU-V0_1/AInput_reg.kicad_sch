@@ -5,7 +5,7 @@
   (paper "A4")
 
   (title_block
-    (title "PRP-6502 -- ALU : B Input Register")
+    (title "PRP-6502 -- ALU : A Input Register")
     (date "2023-07-02")
     (company "PRP-DIY")
   )
