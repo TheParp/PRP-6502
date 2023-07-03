@@ -356,8 +356,8 @@
       "ALU5-SRS"
     ],
     [
-      "65fbbc7b-1053-4b7a-b0ae-57caa25c0eba",
-      "Adder Hold Register"
+      "61dc0d7a-8fde-4fbd-b542-ed8316c8cea0",
+      "Adder Hold Register (ADD)"
     ]
   ],
   "text_variables": {}
