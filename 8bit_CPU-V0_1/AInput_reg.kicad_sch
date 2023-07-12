@@ -6,7 +6,8 @@
 
   (title_block
     (title "PRP-6502 -- ALU : A Input Register")
-    (date "2023-07-02")
+    (date "2023-07-06")
+    (rev "1")
     (company "PRP-DIY")
   )
 
@@ -1807,10 +1808,6 @@
     (stroke (width 0) (type default))
     (uuid 58dcc285-9a17-4e6a-b0e1-25757fdc6751)
   )
-  (wire (pts (xy 67.31 85.09) (xy 71.12 85.09))
-    (stroke (width 0) (type default))
-    (uuid 590621f2-57a9-4889-9b20-6dc54605be01)
-  )
   (wire (pts (xy 237.49 85.09) (xy 237.49 124.46))
     (stroke (width 0) (type default))
     (uuid 592b2ede-c368-49e0-baaf-040f523cedfa)
@@ -2479,7 +2476,7 @@
           (reference "U7") (unit 7)
         )
         (path "/81b49a11-4d6c-4532-89fe-728a8cf00278/25bbece4-880f-4fa1-94ee-76ee775f4584"
-          (reference "U13") (unit 7)
+          (reference "U9") (unit 7)
         )
       )
     )
@@ -2517,7 +2514,7 @@
   (symbol (lib_id "74xx:74LS04") (at 55.88 153.67 0) (unit 3)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 19e7746f-a68f-42ce-8d56-abbd145ebe7d)
-    (property "Reference" "U13" (at 54.61 153.67 0)
+    (property "Reference" "U9" (at 54.61 153.67 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS04" (at 55.88 147.32 0)
@@ -2546,7 +2543,7 @@
     (instances
       (project "8bit_CPU-V0_1"
         (path "/81b49a11-4d6c-4532-89fe-728a8cf00278/25bbece4-880f-4fa1-94ee-76ee775f4584"
-          (reference "U13") (unit 3)
+          (reference "U9") (unit 3)
         )
       )
     )
@@ -2637,19 +2634,19 @@
     )
   )
 
-  (symbol (lib_id "power:GND") (at 67.31 85.09 0) (unit 1)
+  (symbol (lib_id "power:GND") (at 71.12 85.09 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 42e19ab1-7de1-404e-8d9b-ea94d640fcd5)
-    (property "Reference" "#PWR021" (at 67.31 91.44 0)
+    (property "Reference" "#PWR021" (at 71.12 91.44 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "GND" (at 67.31 88.9 0)
+    (property "Value" "GND" (at 71.12 88.9 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 67.31 85.09 0)
+    (property "Footprint" "" (at 71.12 85.09 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "" (at 67.31 85.09 0)
+    (property "Datasheet" "" (at 71.12 85.09 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid d638156a-69ac-4d10-87df-7a60f7ef55ab))
@@ -2668,7 +2665,7 @@
   (symbol (lib_id "74xx:74LS04") (at 54.61 106.68 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 4320fc21-6472-4aa0-832b-6a52c63f822c)
-    (property "Reference" "U13" (at 54.61 107.95 0)
+    (property "Reference" "U9" (at 54.61 107.95 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS04" (at 48.26 106.68 0)
@@ -2697,7 +2694,7 @@
     (instances
       (project "8bit_CPU-V0_1"
         (path "/81b49a11-4d6c-4532-89fe-728a8cf00278/25bbece4-880f-4fa1-94ee-76ee775f4584"
-          (reference "U13") (unit 1)
+          (reference "U9") (unit 1)
         )
       )
     )
@@ -2966,7 +2963,7 @@
           (reference "U4") (unit 1)
         )
         (path "/81b49a11-4d6c-4532-89fe-728a8cf00278/25bbece4-880f-4fa1-94ee-76ee775f4584"
-          (reference "U12") (unit 1)
+          (reference "U10") (unit 1)
         )
       )
     )
@@ -2995,7 +2992,7 @@
           (reference "C4") (unit 1)
         )
         (path "/81b49a11-4d6c-4532-89fe-728a8cf00278/25bbece4-880f-4fa1-94ee-76ee775f4584"
-          (reference "C12") (unit 1)
+          (reference "C10") (unit 1)
         )
       )
     )
@@ -3321,7 +3318,7 @@
           (reference "U6") (unit 1)
         )
         (path "/81b49a11-4d6c-4532-89fe-728a8cf00278/25bbece4-880f-4fa1-94ee-76ee775f4584"
-          (reference "U10") (unit 1)
+          (reference "U12") (unit 1)
         )
       )
     )
@@ -3400,7 +3397,7 @@
           (reference "U9") (unit 1)
         )
         (path "/81b49a11-4d6c-4532-89fe-728a8cf00278/25bbece4-880f-4fa1-94ee-76ee775f4584"
-          (reference "U9") (unit 1)
+          (reference "U27") (unit 1)
         )
       )
     )
@@ -3429,7 +3426,7 @@
           (reference "C7") (unit 1)
         )
         (path "/81b49a11-4d6c-4532-89fe-728a8cf00278/25bbece4-880f-4fa1-94ee-76ee775f4584"
-          (reference "C13") (unit 1)
+          (reference "C9") (unit 1)
         )
       )
     )
@@ -3525,7 +3522,7 @@
   (symbol (lib_id "74xx:74LS04") (at 72.39 135.89 0) (unit 2)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid fba66982-4e97-43e2-a1c7-0e37d48c6f0a)
-    (property "Reference" "U13" (at 71.12 135.89 0)
+    (property "Reference" "U9" (at 71.12 135.89 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS04" (at 72.39 129.54 0)
@@ -3554,7 +3551,7 @@
     (instances
       (project "8bit_CPU-V0_1"
         (path "/81b49a11-4d6c-4532-89fe-728a8cf00278/25bbece4-880f-4fa1-94ee-76ee775f4584"
-          (reference "U13") (unit 2)
+          (reference "U9") (unit 2)
         )
       )
     )
@@ -3583,7 +3580,7 @@
           (reference "C6") (unit 1)
         )
         (path "/81b49a11-4d6c-4532-89fe-728a8cf00278/25bbece4-880f-4fa1-94ee-76ee775f4584"
-          (reference "C10") (unit 1)
+          (reference "C12") (unit 1)
         )
       )
     )
