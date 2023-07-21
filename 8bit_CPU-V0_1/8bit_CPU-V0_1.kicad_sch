@@ -2414,6 +2414,23 @@
     )
   )
 
+  (sheet (at 307.34 60.96) (size 22.86 48.26) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 18226ac6-27da-44f5-8e25-c97f9f83156d)
+    (property "Sheetname" "Address Bus Low Register (ABL)" (at 307.34 60.2484 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "ABL.kicad_sch" (at 307.34 109.8046 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "8bit_CPU-V0_1"
+        (path "/81b49a11-4d6c-4532-89fe-728a8cf00278" (page "19"))
+      )
+    )
+  )
+
   (sheet (at 133.35 25.4) (size 43.18 50.8) (fields_autoplaced)
     (stroke (width 0.1524) (type solid))
     (fill (color 0 0 0 0.0000))
@@ -3129,6 +3146,23 @@
     )
   )
 
+  (sheet (at -30.48 -144.78) (size 64.77 58.42) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 7683e6c9-6995-4749-a7f4-2797a57e0087)
+    (property "Sheetname" "Program Counter High (PCH & PCHS)" (at -30.48 -145.4916 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "PCH.kicad_sch" (at -30.48 -85.7754 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "8bit_CPU-V0_1"
+        (path "/81b49a11-4d6c-4532-89fe-728a8cf00278" (page "21"))
+      )
+    )
+  )
+
   (sheet (at 133.35 185.42) (size 43.18 52.07) (fields_autoplaced)
     (stroke (width 0.1524) (type solid))
     (fill (color 0 0 0 0.0000))
@@ -3559,6 +3593,23 @@
     )
   )
 
+  (sheet (at 386.08 82.55) (size 31.75 39.37) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid d00fd422-357e-4960-acdb-584a1b9bf0e9)
+    (property "Sheetname" "Address Bus High Register (ABH)" (at 386.08 81.8384 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "ABH.kicad_sch" (at 386.08 122.5046 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "8bit_CPU-V0_1"
+        (path "/81b49a11-4d6c-4532-89fe-728a8cf00278" (page "20"))
+      )
+    )
+  )
+
   (sheet (at 306.07 127) (size 27.94 39.37) (fields_autoplaced)
     (stroke (width 0.1524) (type solid))
     (fill (color 0 0 0 0.0000))
@@ -3758,6 +3809,23 @@
     (instances
       (project "8bit_CPU-V0_1"
         (path "/81b49a11-4d6c-4532-89fe-728a8cf00278" (page "7"))
+      )
+    )
+  )
+
+  (sheet (at 166.37 -165.1) (size 62.23 29.21) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid f9e057a6-691a-49ee-907c-b540b8ce0042)
+    (property "Sheetname" "Input Data Latch (DL)" (at 166.37 -165.8116 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "Data_Latch_DL.kicad_sch" (at 166.37 -135.3054 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "8bit_CPU-V0_1"
+        (path "/81b49a11-4d6c-4532-89fe-728a8cf00278" (page "22"))
       )
     )
   )

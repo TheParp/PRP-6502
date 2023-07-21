@@ -547,6 +547,22 @@
     [
       "816932f9-d641-4dc0-91dd-095c3cee03c6",
       "Processor Status Register (P)"
+    ],
+    [
+      "18226ac6-27da-44f5-8e25-c97f9f83156d",
+      "Address Bus Low Register (ABL)"
+    ],
+    [
+      "d00fd422-357e-4960-acdb-584a1b9bf0e9",
+      "Address Bus High Register (ABH)"
+    ],
+    [
+      "7683e6c9-6995-4749-a7f4-2797a57e0087",
+      "Program Counter High (PCH & PCHS)"
+    ],
+    [
+      "f9e057a6-691a-49ee-907c-b540b8ce0042",
+      "Input Data Latch (DL)"
     ]
   ],
   "text_variables": {}
